@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/dscpd-public-org/playground/compare/v1.0.4...v1.1.0) (2024-02-13)
+
+
+### Features
+
+* **c1:** add some ([0b7a9ac](https://github.com/dscpd-public-org/playground/commit/0b7a9ac9cf91b2402be16eea8614047bbc3b4c34))
+
+
+### Bug Fixes
+
+* **ci:** add package name to packages in package.json ([f9a46bd](https://github.com/dscpd-public-org/playground/commit/f9a46bd915f7528d4540b695bb2bbf133cc6269c))
+* it ([#15](https://github.com/dscpd-public-org/playground/issues/15)) ([cd82310](https://github.com/dscpd-public-org/playground/commit/cd82310c5f3cb3ff7f8a0f54d78afbaa1854e898))
+
 ## [1.0.4](https://github.com/dscpd-public-org/playground/compare/v1.0.3...v1.0.4) (2024-02-13)
 
 
