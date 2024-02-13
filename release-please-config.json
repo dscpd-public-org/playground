@@ -20,9 +20,11 @@
   ],
   "packages": {
     "OA/c1": {
-      "release-type": "python"
+      "package-name": "c1",
+      "release-type": "node"
     },
     "OA/c2": {
+      "package-name": "c2",
       "release-type": "node"
     }
   }
