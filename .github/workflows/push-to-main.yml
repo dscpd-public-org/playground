@@ -17,7 +17,7 @@ jobs:
       tag_name: ${{ steps.release.outputs.tag_name }}
     steps:
       - name: 🚀 Release please
-        uses: google-github-actions/release-please-action@v3.7.13
+        uses: google-github-actions/release-please-action@v4
         id: release
         with:
           release-type: node
@@ -25,6 +25,7 @@ jobs:
           changelog-types: >-
             [
               {"type":"feat","section":"Features","hidden":false},
+              {"type":"chore","section":"Chores","hidden":false},
               {"type":"fix","section":"Bug Fixes","hidden":false}
             ]
           extra-files: |
