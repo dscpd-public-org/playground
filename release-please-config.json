@@ -1,8 +1,9 @@
 {
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json",
   "separate-pull-requests": true,
+  "include-component-in-tag": true,
   "pull-request-title-pattern": "chore: release${component} ${version}",
-  "commit-search-depth": 30,
+  "commit-search-depth": 5000,
   "changelog-sections": [
     {
       "type": "feat",
@@ -14,18 +15,23 @@
     },
     {
       "type": "chore",
-      "section": "Chores",
-      "hidden": true
+      "section": "Chores"
     }
   ],
   "packages": {
     "OA/c1": {
       "package-name": "c1",
-      "release-type": "node"
+      "release-type": "node",
+      "extra-files": [
+        "REST.yaml"
+      ]
     },
     "OA/c2": {
       "package-name": "c2",
-      "release-type": "node"
+      "release-type": "node",
+      "extra-files": [
+        "REST.yaml"
+      ]
     }
   }
 }
