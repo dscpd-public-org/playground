@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.1](https://github.com/dscpd-public-org/playground/compare/v1.1.0...v1.1.1) (2024-02-13)
+
+
+### Bug Fixes
+
+* **ci:** add separate RREST ([0f9e6f9](https://github.com/dscpd-public-org/playground/commit/0f9e6f992499e8ab3718af7916d4c7e749979cfb))
+* **ci:** add separate RREST ([#20](https://github.com/dscpd-public-org/playground/issues/20)) ([2deee87](https://github.com/dscpd-public-org/playground/commit/2deee875a3fb758701311dae19a1128688db10ad))
+
 ## [1.1.0](https://github.com/dscpd-public-org/playground/compare/v1.0.4...v1.1.0) (2024-02-13)
 
 
