@@ -19,13 +19,14 @@ jobs:
       tag_name: ${{ steps.release.outputs.tag_name }}
     steps:
       - name: 🚀 Release please
-        uses: ./.github/workflows/reusable-release-please-release.yaml
+        uses: google-github-actions/release-please-action@v4
+        id: release
         with:
           path: OA/c1
-
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout
         uses: actions/checkout@v4
-
       - name: Create status
         if: ${{ !steps.release.outputs.release_created }}
         run: |
