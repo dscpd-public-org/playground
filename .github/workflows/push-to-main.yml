@@ -18,18 +18,13 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          changelog-types: >-
-            [
-              {"type":"feat","section":"Features","hidden":false},
-              {"type":"fix","section":"Bug Fixes","hidden":false},
-            ]
           extra-files: |
             OA/REST.yaml
           prerelease: true
           versioning-strategy: prerelease
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - name: 🗃 Checkout code
+      - name: 🗃 Do checkout
         uses: actions/checkout@v4
       - name: Create status
         if: ${{ !steps.release.outputs.release_created }}

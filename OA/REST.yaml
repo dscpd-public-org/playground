@@ -2,3 +2,9 @@ openapi: 3.0.3
 info:
   version: 0.1.0 # x-release-please-version
   title: REST API
+paths:
+  /mains:
+    get:
+      responses:
+        '204':
+          description: No content
