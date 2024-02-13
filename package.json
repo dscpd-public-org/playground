@@ -1,0 +1,11 @@
+{
+  "name": "playground",
+  "version": "1.0.2",
+  "dependencies": {
+  },
+  "private": true,
+  "scripts": {
+    "start": "echo Starting ... && echo Started: Done.",
+    "build": "echo Building ... && echo Built: Done."
+  }
+}
