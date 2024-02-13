@@ -1,0 +1,10 @@
+{
+  "name": "C1",
+  "version": "0.0.0",
+  "dependencies": {},
+  "private": true,
+  "scripts": {
+    "start": "echo Starting C1... && echo C1 started.",
+    "build": "echo Building ... && echo C1 built."
+  }
+}
