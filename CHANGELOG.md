@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.1](https://github.com/dscpd-public-org/playground/compare/v1.0.0...v1.0.1) (2024-02-13)
+
+
+### Bug Fixes
+
+* **calc:** add mod2 ([ae1c3d3](https://github.com/dscpd-public-org/playground/commit/ae1c3d34981c9b6bb6194a080fbe64adba03735f))
+* **calc:** add mod2 ([#6](https://github.com/dscpd-public-org/playground/issues/6)) ([1bd43b3](https://github.com/dscpd-public-org/playground/commit/1bd43b39866c359beaf58ddea0427099c1eeea1c))
+
 ## 1.0.0 (2024-02-13)
 
 
