@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'OA/c2'
+      - 'OA/c2/**'
 
 permissions:
   contents: write
