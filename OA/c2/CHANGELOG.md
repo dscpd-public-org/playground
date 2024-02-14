@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.3](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.2...c2-v1.3.3) (2024-02-14)
+
+
+### Bug Fixes
+
+* **ci:** do stupid things takes 2 ([34a3fbf](https://github.com/dscpd-public-org/playground/commit/34a3fbf39050271959dad50be5cb96b05240ad76))
+
 ## [1.3.2](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.1...c2-v1.3.2) (2024-02-14)
 
 
