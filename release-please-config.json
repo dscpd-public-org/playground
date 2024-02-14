@@ -5,6 +5,7 @@
   "commit-search-depth": 2500,
   "include-component-in-tag": true,
   "bootstrap-sha": "316fc2c39e08b1b8146df26f0703a07bc320b8b5",
+  "always-link-local": true,
   "changelog-sections": [
     {
       "type": "feat",
@@ -34,7 +35,15 @@
       "extra-files": [
         "REST.yaml"
       ]
+    },
+    "OA/s": {
+      "changelog-sections": []
     }
   },
-  "plugins": ["node-workspace"]
+  "plugins": [
+    {
+      "type": "node-workspace",
+      "considerAllArtifacts": true
+    }
+  ]
 }
