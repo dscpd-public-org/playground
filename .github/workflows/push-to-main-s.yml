@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'OA/c1/**'
+      - 'OA/s/**'
 
 permissions:
   contents: write
@@ -22,7 +22,7 @@ jobs:
         uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          path: OA/c1
+          path: OA/s
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout
