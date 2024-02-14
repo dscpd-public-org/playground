@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.7](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.6...OA-v1.1.7) (2024-02-14)
+
+
+### Bug Fixes
+
+* **s:** simplk ([e61ac15](https://github.com/dscpd-public-org/playground/commit/e61ac159dc55bb73dee4bbf005cfcb2512818dd1))
+
 ## [1.1.6](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.5...OA-v1.1.6) (2024-02-14)
 
 
