@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'OA/c2/**'
+      - 'OA/s/**'
 
 permissions:
   contents: write
@@ -13,7 +13,7 @@ permissions:
 
 jobs:
   release:
-    if: "github.event_name == 'push' && github.ref == 'refs/heads/main' && !startsWith(github.event.head_commit.message, 'chore: release c2')"
+    if: "github.event_name == 'push' && github.ref == 'refs/heads/main'"
     runs-on: ubuntu-latest
     outputs:
       released: ${{ steps.release.outputs.release_created }}
@@ -23,8 +23,9 @@ jobs:
         uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          path: OA/c2
+          path: OA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout
         uses: actions/checkout@v4
+

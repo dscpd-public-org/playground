@@ -21,6 +21,18 @@
     }
   ],
   "packages": {
+    "OA": {
+      "release-type": "simple",
+      "skip-github-release": true,
+      "extra-files": [
+        "OA/c1/shared-version.yaml",
+        "OA/c2/shared-version.yaml"
+      ],
+      "exclude-paths": [
+        "OA/c1",
+        "OA/c2"
+      ]
+    },
     "OA/c1": {
       "package-name": "c1",
       "release-type": "node",
