@@ -22,8 +22,8 @@
   ],
   "packages": {
     "OA": {
+      "package-name": "OA",
       "release-type": "simple",
-      "skip-github-release": true,
       "extra-files": [
         "OA/c1/shared-version.yaml",
         "OA/c2/shared-version.yaml"
