@@ -24,6 +24,7 @@ jobs:
         id: release
         with:
           release-type: node
+          package-name: OA/c1
           path: OA/c1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -24,9 +24,9 @@ jobs:
         id: release
         with:
           release-type: simple
+          package-name: OA
           path: OA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout
         uses: actions/checkout@v4
-
