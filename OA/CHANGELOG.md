@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.5](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.4...OA-v1.1.5) (2024-02-14)
+
+
+### Bug Fixes
+
+* **s:** ldld ([c415bfd](https://github.com/dscpd-public-org/playground/commit/c415bfd086be3e1ff472de8a459cb79cbb13b751))
+
 ## [1.1.4](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.3...OA-v1.1.4) (2024-02-14)
 
 
