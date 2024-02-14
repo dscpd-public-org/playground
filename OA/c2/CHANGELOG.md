@@ -6,6 +6,10 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+### Dependencies
+
+
+
 ## [1.3.0](https://github.com/dscpd-public-org/playground/compare/c2-v1.2.2...c2-v1.3.0) (2024-02-14)
 
 
