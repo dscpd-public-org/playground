@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/dscpd-public-org/playground/compare/OA-v1.0.1...OA-v1.0.2) (2024-02-14)
+
+
+### Bug Fixes
+
+* **s:** add mod13 ([746947b](https://github.com/dscpd-public-org/playground/commit/746947b171aac1dc3ad18fb3c5940fbcf67cb296))
+
 ## [1.0.1](https://github.com/dscpd-public-org/playground/compare/OA-v1.0.0...OA-v1.0.1) (2024-02-14)
 
 
