@@ -1,0 +1,11 @@
+{
+  "name": "OA",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "private": true,
+  "scripts": {
+    "start": "echo Starting OA... && echo OA started.",
+    "build": "echo Building OA ... && echo OA built."
+  }
+}

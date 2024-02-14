@@ -21,11 +21,12 @@
     }
   ],
   "packages": {
-    ".": {
-      "release-type": "simple",
+    "OA": {
+      "package-name": "OA",
+      "release-type": "node",
       "extra-files": [
-        "OA/c1/shared-version.yaml",
-        "OA/c2/shared-version.yaml"
+        "c1/shared-version.yaml",
+        "c2/shared-version.yaml"
       ],
       "exclude-paths": [
         "OA/c1",
