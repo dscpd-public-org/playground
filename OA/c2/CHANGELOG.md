@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.4](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.3...c2-v1.3.4) (2024-02-14)
+
+
+### Bug Fixes
+
+* **ci:** revert to using OA ([e6b9f1e](https://github.com/dscpd-public-org/playground/commit/e6b9f1e6e30e84dfe832b2ce51123f02ea0cf0c5))
+
 ## [1.3.3](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.2...c2-v1.3.3) (2024-02-14)
 
 
