@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'OA/c2/**'
+      - 'OA/s/**'
 
 permissions:
   contents: write
@@ -13,6 +14,7 @@ permissions:
 
 jobs:
   release:
+    if: "github.event_name == 'push' && github.ref == 'refs/heads/main' && (contains(github.event.head_commit.message, 'c2') || !startsWith(github.event.head_commit.message, 'chore: release c2'))"
     runs-on: ubuntu-latest
     outputs:
       released: ${{ steps.release.outputs.release_created }}

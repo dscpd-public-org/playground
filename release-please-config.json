@@ -34,16 +34,6 @@
       "extra-files": [
         "REST.yaml"
       ]
-    },
-    "OA/s": {
-      "package-name": "c2",
-      "release-type": "node"
     }
-  },
-  "plugins": [
-    {
-      "type": "node-workspace",
-      "considerAllArtifacts": true
-    }
-  ]
+  }
 }
