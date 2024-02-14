@@ -1,0 +1,21 @@
+From 85ef5710da5008cffe0784bfca2f045c41e085e8 Mon Sep 17 00:00:00 2001
+From: Dimitar Stoikov <dimitar.stoikov@cellpointmobile.com>
+Date: Wed, 14 Feb 2024 16:41:45 +0200
+Subject: [PATCH] fix(s0: sd;
+
+---
+ OA/s/S.TXT | 1 +
+ 1 file changed, 1 insertion(+)
+
+diff --git a/OA/s/S.TXT b/OA/s/S.TXT
+index 9854a60..b0a1061 100644
+--- a/OA/s/S.TXT
++++ b/OA/s/S.TXT
+@@ -16,3 +16,4 @@ mod14
+ mod15
+ mod16
+ mod17
++mod20
+-- 
+2.34.1
+

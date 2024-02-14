@@ -20,11 +20,9 @@ jobs:
       tag_name: ${{ steps.release.outputs.tag_name }}
     steps:
       - name: 🚀 Release please
-        uses: google-github-actions/release-please-action@v3.7.13
+        uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          release-type: node
-          package-name: OA/c2
           path: OA/c2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
