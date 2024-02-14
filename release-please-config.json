@@ -23,14 +23,10 @@
   "packages": {
     "OA": {
       "package-name": "OA",
-      "release-type": "node",
+      "release-type": "simple",
       "extra-files": [
         "c1/shared-version.yaml",
         "c2/shared-version.yaml"
-      ],
-      "exclude-paths": [
-        "OA/c1",
-        "OA/c2"
       ]
     },
     "OA/c1": {
