@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.5](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.4...c2-v1.3.5) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c2:** jus ttes ([ca4b82d](https://github.com/dscpd-public-org/playground/commit/ca4b82d2c36bbf0322ae185f5b4b05f7ccdb542e))
+
 ## [1.3.4](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.3...c2-v1.3.4) (2024-02-14)
 
 
