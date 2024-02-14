@@ -1,5 +1,11 @@
 # Changelog
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * s bumped from >=0.0.1 to >1.0.0
+
 ## [1.2.1](https://github.com/dscpd-public-org/playground/compare/c2-v1.2.0...c2-v1.2.1) (2024-02-14)
 
 
