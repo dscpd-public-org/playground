@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'OA/c1/**'
+      - 'OA/s/**'
 
 permissions:
   contents: write
