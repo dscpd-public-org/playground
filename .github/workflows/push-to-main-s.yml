@@ -23,7 +23,7 @@ jobs:
         uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          path: OA
+          path: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout

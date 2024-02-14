@@ -21,8 +21,7 @@
     }
   ],
   "packages": {
-    "OA": {
-      "package-name": "OA",
+    ".": {
       "release-type": "simple",
       "extra-files": [
         "OA/c1/shared-version.yaml",
