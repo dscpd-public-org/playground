@@ -1,0 +1,10 @@
+openapi: 3.0.3
+info:
+  version: 1.2.0 # x-release-please-version
+  title: REST API C2
+paths:
+  /mains:
+    get:
+      responses:
+        '204':
+          description: No content
