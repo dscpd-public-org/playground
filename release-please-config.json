@@ -5,6 +5,7 @@
   "commit-search-depth": 2500,
   "include-component-in-tag": true,
   "bootstrap-sha": "316fc2c39e08b1b8146df26f0703a07bc320b8b5",
+
   "changelog-sections": [
     {
       "type": "feat",
@@ -21,27 +22,35 @@
     }
   ],
   "packages": {
-    "OA": {
-      "package-name": "OA",
+    "OA/s": {
+      "package-name": "s",
       "release-type": "simple",
-      "extra-files": [
-        "c1/shared-version.yaml",
-        "c2/shared-version.yaml"
-      ]
+      "component": "s"
     },
     "OA/c1": {
       "package-name": "c1",
       "release-type": "node",
       "extra-files": [
         "REST.yaml"
-      ]
+      ],
+      "component": "c1"
     },
     "OA/c2": {
       "package-name": "c2",
       "release-type": "node",
       "extra-files": [
         "REST.yaml"
-      ]
-    }
+      ],
+      "component": "c2"
+    },
+    "plugins": [
+      {
+        "type": "linked-versions",
+        "groupName": "my group",
+        "components": [
+          "s", "c2"
+        ]
+      }
+    ]
   }
 }
