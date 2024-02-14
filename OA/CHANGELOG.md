@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.2...OA-v1.1.3) (2024-02-14)
+
+
+### Bug Fixes
+
+* **s:** 113 ([f0960f5](https://github.com/dscpd-public-org/playground/commit/f0960f583b646184e8e7a29357e1d6c8ac325414))
+
 ## [1.1.2](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.1...OA-v1.1.2) (2024-02-14)
 
 
