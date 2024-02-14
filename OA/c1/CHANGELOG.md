@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.4](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.3...c1-v1.2.4) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c1:** add mod8 ([#47](https://github.com/dscpd-public-org/playground/issues/47)) ([d6c0508](https://github.com/dscpd-public-org/playground/commit/d6c050849da2903758d512d0926babae8248fec6))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * s bumped from >=0.0.1 to >1.0.0
+
 ## [1.2.3](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.2...c1-v1.2.3) (2024-02-14)
 
 
