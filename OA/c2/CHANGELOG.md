@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.1](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.0...c2-v1.3.1) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c2:** test broken ([#64](https://github.com/dscpd-public-org/playground/issues/64)) ([01b5f17](https://github.com/dscpd-public-org/playground/commit/01b5f178ca35fb29a30fdd446b47e739b858403c))
+
 ## [1.3.0](https://github.com/dscpd-public-org/playground/compare/c2-v1.2.2...c2-v1.3.0) (2024-02-14)
 
 
