@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.8](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.7...c1-v1.2.8) (2024-02-14)
+
+
+### Bug Fixes
+
+* **ci:** do stupid things takes 2 ([34a3fbf](https://github.com/dscpd-public-org/playground/commit/34a3fbf39050271959dad50be5cb96b05240ad76))
+
 ## [1.2.7](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.6...c1-v1.2.7) (2024-02-14)
 
 
