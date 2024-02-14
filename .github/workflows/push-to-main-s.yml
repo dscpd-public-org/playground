@@ -23,6 +23,7 @@ jobs:
         uses: google-github-actions/release-please-action@v3.7.13
         id: release
         with:
+          release-type: simple
           path: OA
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
