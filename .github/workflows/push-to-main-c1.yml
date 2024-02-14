@@ -29,21 +29,4 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: 🗃 Do checkout
         uses: actions/checkout@v4
-      - name: Create status
-        if: ${{ !steps.release.outputs.release_created }}
-        run: |
-          echo '✨ Get PR No'
-          PULL_REQUEST_NUMBER=$(echo ${{ steps.release.outputs.prs }} | grep -Po '(?<=number:)[0-9]+')
-          echo "✨ Pull Request number ${PULL_REQUEST_NUMBER}"
 
-          BODY=$(curl --request GET \
-          --url https://api.github.com/repos/${{ github.repository }}/pulls/${PULL_REQUEST_NUMBER} \
-          --header "Accept: application/vnd.github+json" --header "authorization: Bearer ${{ secrets.GITHUB_TOKEN }}")
-
-          SHA=$(echo $BODY | grep -Po '"head":\s*{\s*[^{}]*:*' | grep -Po '(?<="sha":\s")[a-zA-Z0-9]*')
-          echo "✨ SHA: ${SHA}"
-
-          curl --request POST \
-          --url https://api.github.com/repos/${{ github.repository }}/statuses/${SHA} \
-          --header 'authorization: Bearer ${{ secrets.GITHUB_TOKEN }}' --header 'content-type: application/json' \
-          --data '{ "state": "success", "context": "build" }'
