@@ -42,15 +42,6 @@
         "REST.yaml"
       ],
       "component": "c2"
-    },
-    "plugins": [
-      {
-        "type": "linked-versions",
-        "groupName": "my group",
-        "components": [
-          "s", "c2"
-        ]
-      }
-    ]
+    }
   }
 }
