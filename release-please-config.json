@@ -35,5 +35,6 @@
         "REST.yaml"
       ]
     }
-  }
+  },
+  "plugins": ["node-workspace"]
 }

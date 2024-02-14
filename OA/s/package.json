@@ -1,0 +1,11 @@
+{
+  "name": "s",
+  "version": "0.0.1",
+  "dependencies": {
+  },
+  "private": true,
+  "scripts": {
+    "start": "echo Starting S... && echo S started.",
+    "build": "echo Building S ... && echo S built."
+  }
+}

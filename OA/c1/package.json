@@ -1,7 +1,9 @@
 {
   "name": "C1",
   "version": "1.2.2",
-  "dependencies": {},
+  "dependencies": {
+    "s": ">=0.0.1"
+  },
   "private": true,
   "scripts": {
     "start": "echo Starting C1... && echo C1 started.",
