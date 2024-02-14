@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.6](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.5...OA-v1.1.6) (2024-02-14)
+
+
+### Bug Fixes
+
+* **s:** nmext ([be46bc5](https://github.com/dscpd-public-org/playground/commit/be46bc58e452b1dd9a8f2a9b650a04970538018c))
+
 ## [1.1.5](https://github.com/dscpd-public-org/playground/compare/OA-v1.1.4...OA-v1.1.5) (2024-02-14)
 
 
