@@ -37,7 +37,8 @@
       ]
     },
     "OA/s": {
-      "changelog-sections": []
+      "package-name": "c2",
+      "release-type": "node"
     }
   },
   "plugins": [
