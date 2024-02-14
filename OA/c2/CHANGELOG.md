@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.1](https://github.com/dscpd-public-org/playground/compare/c2-v1.2.0...c2-v1.2.1) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c2:** add missing REST.yaml ([9a9c575](https://github.com/dscpd-public-org/playground/commit/9a9c57575251af0df77e8190d8fe1322ae981f58))
+* **c2:** add missing REST.yaml ([#32](https://github.com/dscpd-public-org/playground/issues/32)) ([ee5e5b2](https://github.com/dscpd-public-org/playground/commit/ee5e5b25f3d5c9f72f0a94c17d7c535a2897b695))
+
 ## [1.2.0](https://github.com/dscpd-public-org/playground/compare/c2-v1.1.3...c2-v1.2.0) (2024-02-14)
 
 
