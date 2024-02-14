@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.1](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.0...c1-v1.3.1) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c1:** dsds ([028af88](https://github.com/dscpd-public-org/playground/commit/028af88ce13700b49143649773d113fa2ab8b1e6))
+
 ## [1.3.0](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.9...c1-v1.3.0) (2024-02-14)
 
 
