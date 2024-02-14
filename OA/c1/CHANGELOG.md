@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.7](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.6...c1-v1.2.7) (2024-02-14)
+
+
+### Bug Fixes
+
+* **c11:** misc additions ([#60](https://github.com/dscpd-public-org/playground/issues/60)) ([7bf8fcd](https://github.com/dscpd-public-org/playground/commit/7bf8fcd84abd0846a9a1a0f19fbac1a840ea5b82))
+* **c1:** two fixes in one pr ([#61](https://github.com/dscpd-public-org/playground/issues/61)) ([95ca765](https://github.com/dscpd-public-org/playground/commit/95ca765a61e639e2c2156677b9fde178e155f0e9))
+
 ## [1.2.6](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.5...c1-v1.2.6) (2024-02-14)
 
 
