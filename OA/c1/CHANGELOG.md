@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.3.0](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.9...c1-v1.3.0) (2024-02-14)
+
+
+### Features
+
+* **c1:** long time ([8bd2b84](https://github.com/dscpd-public-org/playground/commit/8bd2b847208a645599e6338058ab5a5700f94d16))
+* **c1:** xx ([021110b](https://github.com/dscpd-public-org/playground/commit/021110baa2588200b0ed05a5c34889deabb9bb39))
+
 ## [1.2.9](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.8...c1-v1.2.9) (2024-02-14)
 
 
