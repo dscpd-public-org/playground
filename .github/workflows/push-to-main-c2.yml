@@ -22,7 +22,6 @@ jobs:
         uses: google-github-actions/release-please-action@v4
         id: release
         with:
-          release-type: node
           path: OA/c2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
