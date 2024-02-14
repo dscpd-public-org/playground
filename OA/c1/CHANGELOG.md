@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.9](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.8...c1-v1.2.9) (2024-02-14)
+
+
+### Bug Fixes
+
+* **ci:** revert to using OA ([e6b9f1e](https://github.com/dscpd-public-org/playground/commit/e6b9f1e6e30e84dfe832b2ce51123f02ea0cf0c5))
+
 ## [1.2.8](https://github.com/dscpd-public-org/playground/compare/c1-v1.2.7...c1-v1.2.8) (2024-02-14)
 
 
