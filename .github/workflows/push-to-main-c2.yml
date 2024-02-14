@@ -20,7 +20,7 @@ jobs:
       tag_name: ${{ steps.release.outputs.tag_name }}
     steps:
       - name: 🚀 Release please
-        uses: google-github-actions/release-please-action@v4
+        uses: google-github-actions/release-please-action@v3.7.13
         id: release
         with:
           path: OA/c2
