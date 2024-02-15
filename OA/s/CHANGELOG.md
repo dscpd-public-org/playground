@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.12](https://github.com/dscpd-public-org/playground/compare/s-v1.0.11...s-v1.0.12) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** test sep prs ([a22e20f](https://github.com/dscpd-public-org/playground/commit/a22e20f819abbd69d0fa252a18f44bea71749ef4))
+
 ## [1.0.11](https://github.com/dscpd-public-org/playground/compare/s-v1.0.10...s-v1.0.11) (2024-02-15)
 
 
