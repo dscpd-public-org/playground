@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.8](https://github.com/dscpd-public-org/playground/compare/s-v1.0.7...s-v1.0.8) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** issues with the condition: with in in place release-please does ([6e654f7](https://github.com/dscpd-public-org/playground/commit/6e654f7cae6decd6b390523db1e6b085065b5b18))
+
 ## [1.0.7](https://github.com/dscpd-public-org/playground/compare/s-v1.0.6...s-v1.0.7) (2024-02-15)
 
 
