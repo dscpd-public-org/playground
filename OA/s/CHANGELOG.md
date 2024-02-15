@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.15](https://github.com/dscpd-public-org/playground/compare/s-v1.0.14...s-v1.0.15) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** one release beind ([c0c5110](https://github.com/dscpd-public-org/playground/commit/c0c5110c2abd05f3a7f036e89f137aa452ac5c22))
+
 ## [1.0.14](https://github.com/dscpd-public-org/playground/compare/s-v1.0.13...s-v1.0.14) (2024-02-15)
 
 
