@@ -1,6 +1,6 @@
 openapi: 3.0.3
 info:
-  version: 1.10.0 # x-release-please-version
+  version: 1.10.1 # x-release-please-version
   title: REST API C2
 paths:
   /mains:
