@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.10](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.9...c2-v1.3.10) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c2:** rm dep leave only peerdep on s. ([df88d0e](https://github.com/dscpd-public-org/playground/commit/df88d0eed088d04572a07480e5ceb78ba3e9e664))
+
 ## [1.3.9](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.8...c2-v1.3.9) (2024-02-15)
 
 
