@@ -36,6 +36,14 @@
   * peerDependencies
     * s bumped from >1.0.13 to >1.0.14
 
+## [1.9.2](https://github.com/dscpd-public-org/playground/compare/c1-v1.9.1...c1-v1.9.2) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** it ([f8b9cff](https://github.com/dscpd-public-org/playground/commit/f8b9cffe5b2ec339e741c811c26eff378232e324))
+* **c1:** test c1 ([1fd6a16](https://github.com/dscpd-public-org/playground/commit/1fd6a166bd5089bf23c95df98afde509724bf3d8))
+
 ## [1.9.1](https://github.com/dscpd-public-org/playground/compare/c1-v1.9.0...c1-v1.9.1) (2024-02-15)
 
 
