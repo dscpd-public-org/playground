@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.6](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.5...c1-v1.3.6) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** odd ([06cf32a](https://github.com/dscpd-public-org/playground/commit/06cf32ad4bea45c4b30b71486103073c081da656))
+
 ## [1.3.5](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.4...c1-v1.3.5) (2024-02-15)
 
 
