@@ -24,7 +24,7 @@
   "packages": {
     "OA/s": {
       "package-name": "s",
-      "release-type": "simple",
+      "release-type": "node",
       "component": "s"
     },
     "OA/c1": {
