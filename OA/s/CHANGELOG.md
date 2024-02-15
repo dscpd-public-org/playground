@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.10](https://github.com/dscpd-public-org/playground/compare/s-v1.0.9...s-v1.0.10) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** add mod 20. ([ade9c29](https://github.com/dscpd-public-org/playground/commit/ade9c294210e069372c060129412c3f5015549dc))
+* **s:** next ([ba28e78](https://github.com/dscpd-public-org/playground/commit/ba28e78ec994b9b3633525c7ba8a3b9b2dd181a9))
+
 ## [1.0.9](https://github.com/dscpd-public-org/playground/compare/s-v1.0.8...s-v1.0.9) (2024-02-15)
 
 
