@@ -42,6 +42,13 @@
   * peerDependencies
     * s bumped from >1.0.13 to >1.0.14
 
+## [1.9.1](https://github.com/dscpd-public-org/playground/compare/c2-v1.9.0...c2-v1.9.1) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c2:** testc2 ([1fd979d](https://github.com/dscpd-public-org/playground/commit/1fd979dde0d900682a95d2cbdf670fe82b87c277))
+
 ## [1.9.0](https://github.com/dscpd-public-org/playground/compare/c2-v1.8.1...c2-v1.9.0) (2024-02-15)
 
 

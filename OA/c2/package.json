@@ -1,6 +1,6 @@
 {
   "name": "C2",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "peerDependencies": {
     "s": ">1.0.15"
   },
