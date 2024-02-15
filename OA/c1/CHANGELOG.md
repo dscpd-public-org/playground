@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.5](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.4...c1-v1.3.5) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** smth borken with tagging/releasing ([b8be2ec](https://github.com/dscpd-public-org/playground/commit/b8be2ec979747051bd3b6b60019b1aca724ff29d))
+
 ## [1.3.4](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.3...c1-v1.3.4) (2024-02-15)
 
 
