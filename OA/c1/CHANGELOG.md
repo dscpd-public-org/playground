@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.8](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.7...c1-v1.3.8) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** test c11 after plugin. ([b96ac22](https://github.com/dscpd-public-org/playground/commit/b96ac22379e30a301b4bd38f04cd14a0bad49ab8))
+
 ## [1.3.7](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.6...c1-v1.3.7) (2024-02-15)
 
 
