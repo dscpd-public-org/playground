@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.3](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.2...c1-v1.3.3) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** pkg json. ([b9984ae](https://github.com/dscpd-public-org/playground/commit/b9984aebd9d2239c75fbd46b3eedce7e2df03d03))
+
 ## [1.3.2](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.1...c1-v1.3.2) (2024-02-15)
 
 
