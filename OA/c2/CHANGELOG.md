@@ -6,6 +6,13 @@
   * dependencies
     * s bumped from >=0.0.1 to >1.0.0
 
+## [1.3.8](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.7...c2-v1.3.8) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c2:** test c2 after change to release type node. ([ebc30df](https://github.com/dscpd-public-org/playground/commit/ebc30dfbcece4d3fcd314227b5df128bf5866bfd))
+
 ## [1.3.7](https://github.com/dscpd-public-org/playground/compare/c2-v1.3.6...c2-v1.3.7) (2024-02-15)
 
 
