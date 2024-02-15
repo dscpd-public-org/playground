@@ -4,7 +4,7 @@
   "dependencies": {},
   "private": true,
   "scripts": {
-    "start": "echo Starting C1... && echo C1 started.",
-    "build": "echo Building ... && echo C1 built."
+    "start": "echo Starting C1 ... && echo C1 started.",
+    "build": "echo Building C1 ... && echo C1 built."
   }
 }
