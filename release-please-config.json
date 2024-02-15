@@ -43,5 +43,11 @@
       ],
       "component": "c2"
     }
-  }
+  },
+  "plugins": [
+    {
+      "type": "node-workspace",
+      "updatePeerDependencies": true
+    }
+  ]
 }
