@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.3](https://github.com/dscpd-public-org/playground/compare/s-v1.0.2...s-v1.0.3) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** pkg json. ([54d5d3c](https://github.com/dscpd-public-org/playground/commit/54d5d3cd579657878786e5bf373817aa7db18931))
+
 ## [1.0.2](https://github.com/dscpd-public-org/playground/compare/s-v1.0.1...s-v1.0.2) (2024-02-15)
 
 
