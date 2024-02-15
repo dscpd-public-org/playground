@@ -1,7 +1,12 @@
 {
   "name": "C2",
   "version": "1.3.8",
-  "dependencies": {},
+  "dependencies": {
+    "s": ">=0.0.1"
+  },
+  "peerDependencies": {
+    "s": ">=0.0.1"
+  },
   "private": true,
   "scripts": {
     "start": "echo Starting C2 ... && echo C2 started.",
