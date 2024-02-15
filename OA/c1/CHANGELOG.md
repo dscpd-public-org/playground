@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.7](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.6...c1-v1.3.7) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** add deps on s. ([2009909](https://github.com/dscpd-public-org/playground/commit/200990965b134debdfdcd59f13c6746cfbd7afda))
+
 ## [1.3.6](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.5...c1-v1.3.6) (2024-02-15)
 
 
