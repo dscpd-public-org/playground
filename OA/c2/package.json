@@ -1,8 +1,8 @@
 {
   "name": "C2",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "peerDependencies": {
-    "s": ">1.0.7"
+    "s": ">1.0.8"
   },
   "private": true,
   "scripts": {

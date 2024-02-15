@@ -12,6 +12,12 @@
   * peerDependencies
     * s bumped from >1.0.5 to >1.0.6
 
+### Dependencies
+
+* The following workspace dependencies were updated
+  * peerDependencies
+    * s bumped from >1.0.7 to >1.0.8
+
 ## [1.5.0](https://github.com/dscpd-public-org/playground/compare/c1-v1.4.1...c1-v1.5.0) (2024-02-15)
 
 
