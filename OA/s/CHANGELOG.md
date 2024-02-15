@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/dscpd-public-org/playground/compare/s-v1.0.0...s-v1.0.1) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** add dome stuff under s ([4f5a9da](https://github.com/dscpd-public-org/playground/commit/4f5a9da9ef39270c06fbb21f9ad3672eeac88d8b))
+
 ## 1.0.0 (2024-02-14)
 
 
