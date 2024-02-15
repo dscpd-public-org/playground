@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.2](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.1...c1-v1.3.2) (2024-02-15)
+
+
+### Bug Fixes
+
+* **c1:** test ci after push forved todsds ([c37c625](https://github.com/dscpd-public-org/playground/commit/c37c625775d71c8c3c77fe3bb6c088aeb1f7b708))
+
 ## [1.3.1](https://github.com/dscpd-public-org/playground/compare/c1-v1.3.0...c1-v1.3.1) (2024-02-14)
 
 
