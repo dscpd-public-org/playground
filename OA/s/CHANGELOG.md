@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4](https://github.com/dscpd-public-org/playground/compare/s-v1.0.3...s-v1.0.4) (2024-02-15)
+
+
+### Bug Fixes
+
+* **s:** test s after changed release type to node. ([de06ba8](https://github.com/dscpd-public-org/playground/commit/de06ba840d8125965b43a12fedc8db59458dc9c8))
+
 ## [1.0.3](https://github.com/dscpd-public-org/playground/compare/s-v1.0.2...s-v1.0.3) (2024-02-15)
 
 
